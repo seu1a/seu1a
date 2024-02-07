@@ -11,3 +11,8 @@
 - **Spring Boot**
 - Fast API
 - Python
+
+---
+
+### 📞 Contact
+- seula@juu.kr
