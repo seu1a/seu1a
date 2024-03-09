@@ -1,3 +1,9 @@
-### 🔨 개발 환경
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## ⭐️：That's who I am
+
+> 👋 반갑습니다. **백엔드 개발자** 이슬아입니다.
+
+- 개발과 관련된 모든 것을 접해보아야 한다고 생각합니다
+- 열정적으로 배울 수 있는 것이 행복이라 생각합니다
+- 세상을 이롭게 하는 서비스가 진정한 행복이라 생각합니다
+
+> 현재 _Plan. Develop. Release_ 등 **DevOps**에 관심이 있습니다
